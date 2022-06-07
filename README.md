@@ -1,0 +1,1 @@
+Parser of exchange rates from tradingview.com
